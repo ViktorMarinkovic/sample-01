@@ -1,0 +1,11 @@
+.hero .app-logo {
+  max-width: 10.5rem;
+}
+
+.wrapper {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  height: 100%;
+  width: 100%;
+}
